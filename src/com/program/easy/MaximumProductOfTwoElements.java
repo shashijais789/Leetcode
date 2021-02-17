@@ -1,5 +1,10 @@
 package com.program.easy;
-
+/**
+ * 
+ * @author shashijais789@gmail.com
+ * Category: Array
+ * Problem Type: Easy
+ */
 public class MaximumProductOfTwoElements {
 	public static void main(String[] args) {
 		MaximumProductOfTwoElements obj =  new MaximumProductOfTwoElements();

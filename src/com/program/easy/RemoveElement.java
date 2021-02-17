@@ -1,5 +1,10 @@
 package com.program.easy;
-
+/**
+ * 
+ * @author shashijais789@gmail.com
+ * Category: Array
+ * Problem Type: Easy
+ */
 public class RemoveElement {
 
 	public static void main(String[] args) {

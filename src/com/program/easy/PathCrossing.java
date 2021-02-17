@@ -3,7 +3,12 @@ package com.program.easy;
 import java.util.HashMap;
 import java.util.Map;
 
-
+/**
+ * 
+ * @author shashijais789@gmail.com
+ * Category: Array
+ * Problem Type: Easy
+ */
 public class PathCrossing {
 
 	public static void main(String[] args) {

@@ -1,7 +1,12 @@
 package com.program.easy;
 
 import java.util.HashMap;
-
+/**
+ * 
+ * @author shashijais789@gmail.com
+ * Category: Array
+ * Problem Type: Easy
+ */
 public class CheckIfArrayPairsAreDivisibleByk {
 
 	public static void main(String[] args) {

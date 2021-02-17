@@ -1,7 +1,11 @@
 package com.program.easy;
 
 import java.util.ArrayList;
-
+/**
+ * @author shashijais789@gmail.com
+ * Category: Array
+ * Problem Type: Easy
+ */
 public class TargetArrayInGivenOrder {
 
 	public static void main(String[] args) {

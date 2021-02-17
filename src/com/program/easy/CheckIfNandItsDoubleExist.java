@@ -2,7 +2,12 @@ package com.program.easy;
 
 import java.util.HashSet;
 import java.util.Set;
-
+/**
+ * 
+ * @author shashijais789@gmail.com
+ * Category: Array
+ * Problem Type: Easy
+ */
 public class CheckIfNandItsDoubleExist {
 
 	public static void main(String[] args) {

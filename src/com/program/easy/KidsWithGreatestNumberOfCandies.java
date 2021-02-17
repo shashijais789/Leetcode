@@ -2,7 +2,12 @@ package com.program.easy;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * 
+ * @author shashijais789@gmail.com
+ * Category: Array
+ * Problem Type: Easy
+ */
 public class KidsWithGreatestNumberOfCandies {
 
 	public static void main(String[] args) {
